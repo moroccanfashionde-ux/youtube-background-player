@@ -1,5 +1,4 @@
-const CACHE_NAME = 'yt-background-v3';
-const urlsToCache = [
+const CACHE_NAME = 'yt-background-v4';const urlsToCache = [
   '/',
   '/index.html'
 ];
